@@ -1,0 +1,4 @@
+.env
+main.py
+__pycache__/
+templates/prompts_template.py
