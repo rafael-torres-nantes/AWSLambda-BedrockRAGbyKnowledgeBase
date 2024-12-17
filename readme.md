@@ -1,4 +1,4 @@
-# AWS Lambda - Generating RAG by Knowledge Base (and insert log in DynamoDB)
+# 📕 AWS Lambda - Generating RAG by Knowledge Base (and insert log in DynamoDB)
 
 ## 👨‍💻 Projeto desenvolvido por: 
 [Rafael Torres Nantes](https://github.com/rafael-torres-nantes)
